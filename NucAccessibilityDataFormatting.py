@@ -1,7 +1,7 @@
 #NucAccessibilityFormatter V1
 #Bastian Stark
 #July 31, 2024
-#Short Python script meant to take DR_SASA .asmasa output files as input and apply offsets to align nucleosome positions and average/list the atom accessibilities. Which nucleotides and which atoms are used for analysis can be modified in the "whitelist" lists at beginning of script.
+#Short Python script meant to take DR_SASA .atmasa output files as input and apply offsets to align nucleosome positions and average/list the atom accessibilities. Which nucleotides and which atoms are used for analysis can be modified in the "whitelist" lists at beginning of script.
 
 import os
 
